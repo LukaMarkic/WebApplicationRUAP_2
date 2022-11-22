@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'lmarkic-app2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_163FC01A89BE48E59F3B204A92B2D9E5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C412FBB62AE2424380C221B630671ACB }}
           package: .
